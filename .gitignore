@@ -1,0 +1,15 @@
+node_modules
+/docs
+/projects/*
+!/projects/.stub
+/server/tools
+/server/dist
+/cli/dist
+*.o
+/decoder/nicm
+.env
+.vscode
+/cli/config/*
+!/cli/config/default.yaml
+/server/config/*
+!/server/config/default.yaml

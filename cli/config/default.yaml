@@ -1,0 +1,5 @@
+bin:
+  ffmpeg: ffmpeg
+encoder:
+  env:
+  options: ["-f", "mp4", "-c:v", "libopenh264", "-b", "10M"]

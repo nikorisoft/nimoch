@@ -1,0 +1,7 @@
+server:
+  port: 4440
+  host: localhost
+projects:
+  directory: ../../projects
+bin:
+  decoder: ../../../decoder/nicm
